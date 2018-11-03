@@ -1,13 +1,8 @@
-### This is a trial.
+# Detect Empty Text Files
 
-Hello.
+This script detects empty .txt files within a directory and lists out those
+empty files in another .txt file.
 
-I don't know.
+# CSV Writer
 
-## Boo
-
-### Let's see if this appears
-
-# Let's check out what happens now
-
-## My wife is staring at me. Scary.
+This script adds a header row to all existing CSV files in a directory. 
